@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj": {}
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj": {}
   },
   "projects": {
-    "D:\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj",
         "projectName": "Angular.Business",
-        "projectPath": "D:\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\RAR-API\\Angular\\Angular.Business\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj"
               },
-              "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj"
               }
             }
           }
@@ -74,8 +74,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj",
         "projectName": "Angular.Communication",
-        "projectPath": "D:\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\RAR-API\\Angular\\Angular.Communication\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -147,8 +146,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -157,21 +155,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj",
         "projectName": "Angular.Models",
-        "projectPath": "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\RAR-API\\Angular\\Angular.Models\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -220,8 +218,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -230,21 +227,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj",
         "projectName": "Angular.MVC",
-        "projectPath": "D:\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\RAR-API\\Angular\\Angular.MVC\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.MVC\\Angular.MVC.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -258,20 +255,20 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Business\\Angular.Business.csproj"
               },
-              "D:\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Communication\\Angular.Communication.csproj"
               },
-              "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj"
               },
-              "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj"
               },
-              "D:\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj"
               }
             }
           }
@@ -321,8 +318,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -334,21 +330,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj",
         "projectName": "Angular.Repository",
-        "projectPath": "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\RAR-API\\Angular\\Angular.Repository\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -397,8 +393,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -407,21 +402,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj": {
+    "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj",
         "projectName": "Angular.Utilities",
-        "projectPath": "D:\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\RAR-API\\Angular\\Angular.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Utilities\\Angular.Utilities.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -435,11 +430,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Models\\Angular.Models.csproj"
               },
-              "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
-                "projectPath": "D:\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj"
+              "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj": {
+                "projectPath": "C:\\Users\\santh\\OneDrive\\Desktop\\santhosh apiz\\RAR-API\\Angular\\Angular.Repository\\Angular.Repository.csproj"
               }
             }
           }
@@ -481,8 +476,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -491,7 +485,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
