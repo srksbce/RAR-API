@@ -15,6 +15,7 @@ namespace Angular.Utilities
         {
             CreateMap<RegisterVM, RegisterUser>().ReverseMap();
             CreateMap<regVM ,Reg>().ReverseMap();
+            //jsdhsd
         }
     }
 }
